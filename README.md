@@ -236,7 +236,7 @@ Optional, depending on the preprocessing notebook:
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/yacerak/Teacher-Student-Distillation-with-Confidence-Based-Intrusion-detection-System.git
 cd your-repo
 
 pip install -r requirements.txt
