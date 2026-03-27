@@ -1,0 +1,2 @@
+# Teacher-Student-Distillation-with-Confidence-Based-Intrusion-detection-System
+the system implements a confidence‑based routing mechanism between a high‑capacity CatBoost teacher and a shallow MLP student, trained on the CICIDS2017 dataset (9 classes, 34 features). The core idea is to use the student for predictions where its confidence exceeds a threshold (optimized on validation) and fall back to the teacher otherwise.
