@@ -8,6 +8,9 @@ A hybrid intrusion detection system for CICIDS2017 that combines:
 
 The goal is to keep most predictions fast and lightweight while preserving strong detection quality on hard samples.
 
+## Notebook Link:
+https://www.kaggle.com/code/yacermeftah/teacher-student-distillation-with-confidence-based
+
 ## Overview
 
 This project implements a teacher–student distillation pipeline for **multi-class intrusion detection** on the **CICIDS2017** dataset. The system learns a compact student model from a stronger teacher, calibrates the student’s probabilities with temperature scaling, and then routes predictions dynamically using a validation-tuned confidence threshold.
