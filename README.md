@@ -237,9 +237,6 @@ Optional, depending on the preprocessing notebook:
 
 ```bash
 git clone https://github.com/yacerak/Teacher-Student-Distillation-with-Confidence-Based-Intrusion-detection-System.git
-cd your-repo
-
-pip install -r requirements.txt
 ```
 
 If no `requirements.txt` exists yet, install the core dependencies manually:
